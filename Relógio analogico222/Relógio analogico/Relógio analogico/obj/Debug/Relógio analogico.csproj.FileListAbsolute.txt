@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\bin\Debug\Relógio analogico.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\bin\Debug\Relógio analogico.exe
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\bin\Debug\Relógio analogico.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Debug\Relógio analogico.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Debug\Relógio_analogico.Form1.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Debug\Relógio_analogico.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Debug\Relógio analogico.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Debug\Relógio analogico.exe
+c:\users\pedro\documents\visual studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Debug\Relógio analogico.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\bin\Release\Relógio analogico.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\bin\Release\Relógio analogico.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\bin\Release\Relógio analogico.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Release\Relógio_analogico.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Release\Relógio_analogico.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Release\Relógio analogico.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Release\Relógio analogico.exe
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Release\Relógio analogico.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\Relógio analogico\Relógio analogico\obj\Release\Relógio analogico.csprojResolveAssemblyReference.cache
